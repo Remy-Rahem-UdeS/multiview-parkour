@@ -1,7 +1,7 @@
 # Twice the Eyes, Half the Falls: Multi-View Depth-Based Learning for Robust Quadruped Locomotion
 
 ## Requirements
-- Ubuntu (While WSL can be used, we do not recommend it)
+- Ubuntu
 - build-essential
 - git
 - git lfs
@@ -46,11 +46,6 @@ Finally, you can install the rest of the dependancies with one of the following 
     cd ../legged_gym && pip install -e .
     pip install "numpy<1.24" pydelatin wandb tqdm opencv-python ipdb pyfqmr flask
     ```
-
-If you use WSL even if not recommended, please copy libcuda.so to the right folder, to allow IsaacGym to see it:
-```bash
-sudo cp /usr/lib/wsl/lib/libcuda.so /usr/lib/x86_64-linux-gnu
-```
 
 ## Usage
 ### Training
