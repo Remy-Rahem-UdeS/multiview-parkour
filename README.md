@@ -24,7 +24,7 @@
 The installation instructions assume the multiview-parkour repository will be installed in the home folder, while Isaac Gym is installed in the repository folder (multiview-parkour/).
 First download and install [Anaconda](https://anaconda.org/).
 Then, download the [repository](https://anonymous.4open.science/r/multiview-parkour-6FB8).
-Finally, you can install the rest of the dependancies with one of the following two methods:
+Finally, you can install the rest of the dependencies with one of the following two methods:
 
 - With the installation script:
     ```bash
