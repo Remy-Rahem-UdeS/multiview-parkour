@@ -1,7 +1,7 @@
 # Twice the Eyes, Half the Falls: Multi-View Depth-Based Learning for Robust Quadruped Locomotion
 
 ## Requirements
-- Ubuntu
+- Ubuntu (Tested under Ubuntu 22.04 and 24.04)
 - build-essential
 - git
 - git lfs
@@ -21,7 +21,7 @@
     - torchvision
 
 ## Installation
-The installation instructions assume the multiview-parkour repository and Isaac Gym will be installed in the home folder.
+The installation instructions assume the multiview-parkour repository will be installed in the home folder, while Isaac Gym is installed in the repository folder (multiview-parkour/).
 First download and install [Anaconda](https://anaconda.org/).
 Then, download the [repository](https://anonymous.4open.science/r/multiview-parkour-6FB8)
 Finally, you can install the rest of the dependancies with one of the following two methods:
