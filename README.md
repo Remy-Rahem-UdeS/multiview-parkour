@@ -1,4 +1,4 @@
-# Twice the Eyes, Half the Falls: Multi-View Depth-Based Learning for Robust Quadruped Locomotion
+# Beyond Egocentric Limits: Multi-View Depth-Based Learning for Robust Quadrupedal Locomotion
 
 ## Requirements
 - Ubuntu (Tested under Ubuntu 22.04 and 24.04)
